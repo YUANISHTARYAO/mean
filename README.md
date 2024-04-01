@@ -18,4 +18,5 @@ Do not use any built-in functions for calculating the mean. Instead code it up f
 # Solution 
 A sample solution is given in HW9_240401.py. 
 The script can be run as follows: 
-$ python3 HW9_240401.py
+
+$ python HW9_240401.py
