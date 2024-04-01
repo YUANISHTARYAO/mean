@@ -14,3 +14,7 @@ The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
 
 # Bonus challenge
 Do not use any built-in functions for calculating the mean. Instead code it up from scratch.
+
+A sample solution is given in HW9_240401.py. 
+The script can be run as follows: 
+$ python3 HW9_240401.py
